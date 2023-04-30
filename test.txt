@@ -1,2 +1,2 @@
 main:lyyyyy,zxxxxx
-dev:lyyyyy,zxxxxx
+deepspeed_zx:lyyyyy,zxxxxx
